@@ -7,9 +7,10 @@ Meu nome é Jessica Perdomo👾
 #### O objetivo é mudar o mundo 🌎
 Amante de programação, jogos e cultura geek no geral 🎮
 
-#### Áreas atuais ;-;
+#### Alguns conhecimentos atuais ;-;
 - JavaScript
 - HTML/CSS
+- GIT / GITHUB
 
 ### Sobre mim:
 [![Linkedin Badge](https://img.shields.io/badge/-Jessica%20Perdomo-00CED1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessica-perdomo-0317b5166/)](https://www.linkedin.com/in/jessica-perdomo-0317b5166/) 
