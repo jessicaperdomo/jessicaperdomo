@@ -2,10 +2,14 @@
 
 Meu nome é Jessica Perdomo👾
 - Estudando Desenvolvimento de Software pela Cubos Academy.
-- Fazendo faculdade de ADS.
+- Fazendo faculdade de Análise e Desenvolvimento de Sistemas.
 
 #### O objetivo é mudar o mundo 🌎
 Amante de programação, jogos e cultura geek no geral 🎮
+
+#### Áreas atuais ;-;
+- JavaScript
+- HTML/CSS
 
 ### Sobre mim:
 [![Linkedin Badge](https://img.shields.io/badge/-Jessica%20Perdomo-00CED1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessica-perdomo-0317b5166/)](https://www.linkedin.com/in/jessica-perdomo-0317b5166/) 
