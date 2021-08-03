@@ -2,7 +2,6 @@
 
 Meu nome é Jessica Perdomo👾
 - Estudando Desenvolvimento de Software pela Cubos Academy.
-- Fazendo faculdade de Análise e Desenvolvimento de Sistemas.
 
 #### O objetivo é mudar o mundo 🌎
 Amante de programação, jogos e cultura geek no geral 🎮
