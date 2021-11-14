@@ -12,6 +12,7 @@ Amante de programação, jogos e cultura geek no geral 🎮
 - GIT / GITHUB
 - Linguagem C;
 - SQL;
+- Python;
 
 ### Sobre mim:
 [![Linkedin Badge](https://img.shields.io/badge/-Jessica%20Perdomo-00CED1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessica-perdomo-0317b5166/)](https://www.linkedin.com/in/jessica-perdomo-0317b5166/) 
