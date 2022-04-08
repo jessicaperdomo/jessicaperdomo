@@ -1,20 +1,20 @@
 ### Oee 👋!
 
 Meu nome é Jessica Perdomo👾
-- Eu estou fazendo o curso de Bacharelado de Sistemas de Informação pela UNOESTE.
+- Eu estou fazendo o curso de Bacharelado de Sistemas de Informação pela UNOESTE (2° Termo).
+- Estagiando na CIANDT.
 - Formada recentemente em Desenvolvimento de Software pela Cubos Academy.
 
 #### O objetivo é mudar o mundo 🌎
-Amante de programação, jogos e cultura geek no geral 🎮
+Amante de programação, jogos, música e cultura geek no geral 🎮
 
-### Estudando...
-- Linguagem C/C++.
-- JavaScript.
-- GIT/GITHUB.
+### Estudando ...
 - HTML/CSS.
+- JavaScript.
 - Python.
-- React.
-- SQL.
+- GIT/GITHUB.
+- SQL - Oracle Database.
+- Linguagem C/C++.
 
 ### Sobre mim:
 [![Linkedin Badge](https://img.shields.io/badge/-Jessica%20Perdomo-00CED1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessica-perdomo-0317b5166/)](https://www.linkedin.com/in/jessica-perdomo-0317b5166/) 
