@@ -1,7 +1,7 @@
 ### Oee 👋!
 
 Meu nome é Jessica Perdomo👾
-- Eu estou fazendo o curso de Bacharelado de Sistemas de Informação pela UNOESTE (2° Termo).
+- Eu estou fazendo o curso de Bacharelado de Sistemas de Informação pela UNOESTE (3° Termo).
 - Estagiando na CIANDT.
 - Formada recentemente em Desenvolvimento de Software pela Cubos Academy.
 
