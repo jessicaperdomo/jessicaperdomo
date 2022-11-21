@@ -9,7 +9,7 @@ My name is Jessica Perdomo 👾
 Lover of programming, games, music and geek culture in general 🎮
 
 ### Studying ...
-- Markup languages: HTML/CSS.
+- HTML/CSS.
 - Some programming languages like C/C++/Python/JavaScript/Typescript/Java.
 - Frameworks: React, Angular.
 - MySQL,SQLite,PostgreeSQL, AWS.
