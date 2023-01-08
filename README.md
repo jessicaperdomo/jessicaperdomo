@@ -26,5 +26,5 @@ Lover of programming, games, music and geek culture in general 🎮
   <a href = "mailto:oujessy.p@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jessica-perdomo-0317b5166/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://wa.me/+5518996002789" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  [![Beecrowd Badge](https://img.shields.io/badge/-Beecrowd%20Ranking-00CED1?style=flat-square&logo=URI&logoColor=white&link=https://www.beecrowd.com.br/judge/pt/profile/574417?origem=1)](https://www.beecrowd.com.br/judge/pt/profile/574417?origem=1)
+  <a href="https://www.beecrowd.com.br/judge/pt/profile/574417?origem=1" target="_blank"><img src="https://img.shields.io/badge/-Beecrowd%20Ranking-00CED1?style=flat-square&logo=URI&logoColor=white" target="_blank"></a>
 </div>
