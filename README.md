@@ -18,8 +18,8 @@ Lover of programming, games, music and geek culture in general 🎮
 - HTML/CSS.
 - Some programming languages like C/C++/Python/JavaScript/Typescript/Java.
 - Frameworks: React, Angular.
-- MySQL,SQLite,PostgreeSQL, AWS.
-- Git: github,bitbucket.
+- MySQL, SQLite, PostgreeSQL, AWS.
+- Git: github, bitbucket.
 
 ### About me:
 <div>
