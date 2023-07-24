@@ -1,7 +1,7 @@
 ### Hello 👋👋!
 
 My name is Jessica Perdomo 👾
-- I'm doing the Bachelor of Information Systems course at UNOESTE (4rd Term).
+- I'm doing the Bachelor of Information Systems course at UNOESTE (5rd Term).
 - Internship at CIANDT.
 - Graduated in Software Development from Cubos Academy.
 
