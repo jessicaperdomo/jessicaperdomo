@@ -15,16 +15,15 @@ Lover of programming, games, music and geek culture in general 🎮
 </div>
 
 ### Studying ...
-- HTML/CSS.
-- Some programming languages like C/C++/Python/JavaScript/Typescript/Java.
-- Frameworks: React, Angular.
-- MySQL, SQLite, PostgreeSQL, AWS.
+- HTML/CSS/Angular/React.
+- C/C++/Python/JavaScript/Typescript/Java+Springboot.
+- MySQL, PostgreeSQL, AWS.
 - Git: github, bitbucket.
 
 ### About me:
 <div>
-  <a href = "mailto:jessicaperdomo101@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:jessicaperdomo101@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jessica-perdomo-0317b5166/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://wa.me/+5518996002789" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href="https://www.beecrowd.com.br/judge/pt/profile/574417?origem=1" target="_blank"><img src="https://img.shields.io/badge/-Beecrowd%20Ranking-00CED1?style=flat-square&logo=URI&logoColor=white" target="_blank"></a>
+  <a href="https://www.beecrowd.com.br/judge/pt/profile/574417?origem=1" target="_blank"><img src="https://img.shields.io/badge/-Beecrowd-%23333?style=for-the-badge&logoColor=white" target="_blank"></a>
 </div>
