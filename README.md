@@ -16,10 +16,8 @@ Lover of programming, games, music and geek culture in general 🎮
 </div>
 
 ### Studying ...
-- HTML/CSS/Angular/React.
 - C/C++/Python/JavaScript/Typescript/Java+Springboot.
 - MySQL, PostgreeSQL, AWS.
-- Git: github, bitbucket.
 
 ### About me:
 <div>
