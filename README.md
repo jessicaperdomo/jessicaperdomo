@@ -1,9 +1,9 @@
 ### Hello 👋👋!
 
 My name is Jessica Perdomo 👾
-- Internship at CIANDT.
+- Junior Systems Analyst at CIANDT.
 - 2023 SBC Marathon Competitor.
-- I'm doing the Bachelor of Information Systems course at UNOESTE (5rd Term).
+- I'm doing the Bachelor of Information Systems course at UNOESTE (6rd Term).
 - Graduated in Software Development from Cubos Academy.
 
 #### The goal is to change the world 🌎
@@ -17,7 +17,7 @@ Lover of programming, games, music and geek culture in general 🎮
 
 ### Studying ...
 - C/C++/Python/JavaScript/Typescript/Java+Springboot.
-- MySQL, PostgreeSQL, AWS.
+- MySQL, PostgreeSQL, Oracle, MariaDB.
 
 ### About me:
 <div>
