@@ -7,7 +7,7 @@ My name is Jessica Perdomo 👾
 - Graduated in Software Development from Cubos Academy.
 
 #### The goal is to change the world 🌎
-Lover of programming, games, music and geek culture in general 🎮
+Lover of programming, neuroscience, games, music and geek culture in general 🎮
 
 <div>
   <a href="https://github.com/jessicaperdomo">
@@ -16,8 +16,9 @@ Lover of programming, games, music and geek culture in general 🎮
 </div>
 
 ### Studying ...
-- C/C++/Python/JavaScript/Typescript/Java+Springboot.
-- MySQL, PostgreeSQL, Oracle, MariaDB.
+- Languages: C/C++/C#/Python/JavaScript/Typescript/Java.
+- Frameworks: Springboot/ReactJS/Vue/AngularJS.
+- MySQL, PostgreeSQL, Oracle, MariaDB, MongoDB.
 
 ### About me:
 <div>
