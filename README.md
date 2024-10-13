@@ -2,7 +2,7 @@
 
 My name is Jessica Perdomo 👾
 - Junior Systems Analyst at CIANDT.
-- 2023 SBC Marathon Competitor.
+- 2023/2024 SBC Marathon Competitor (ICPC).
 - I'm doing the Bachelor of Information Systems course at UNOESTE (6rd Term).
 - Graduated in Software Development from Cubos Academy.
 
