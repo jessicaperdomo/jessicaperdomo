@@ -1,28 +1,38 @@
-### Hello 👋👋!
+### Hello 👋 I'm Jessica Perdomo
 
-My name is Jessica Perdomo 👾
-- Junior Systems Analyst at CIANDT.
-- 2023/2024 SBC Marathon Competitor (ICPC).
-- I'm doing the Bachelor of Information Systems course at UNOESTE (8rd Term).
-- Graduated in Software Development from Cubos Academy.
+I'm a passionate programmer, systems analyst, and neuroscience enthusiast.
+The goal is to change the world 🌎 
 
-#### The goal is to change the world 🌎
-Lover of programming, neuroscience, games, music and geek culture in general 🎮
+- 💻 **Junior Systems Analyst at CIANDT**
+- 🏆 **2023/2024 SBC Marathon Competitor (ICPC)** – Focused on competitive programming and problem-solving.  
+- 🎓 **Bachelor in Information Systems (UNOESTE, 8th term)** | **Software Development Graduate (Cubos Academy)**  
 
-<div>
-  <a href="https://github.com/jessicaperdomo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jessicaperdomo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaperdomo&layout=compact&langs_count=16&theme=tokyonight"/>
-</div>
+---
 
-### Studying ...
-- Languages: C/C++/C#/Python/JavaScript/Typescript/Java.
-- Frameworks: Springboot/ReactJS/Vue/AngularJS.
-- MySQL, PostgreeSQL, Oracle, MariaDB, MongoDB.
+### 🌱 Improving
+#### Languages
+![C](https://img.shields.io/badge/-C-555?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
 
-### About me:
-<div>
-  <a href = "mailto:jessicaperdomo101@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jessica-perdomo-0317b5166/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.beecrowd.com.br/judge/pt/profile/574417?origem=1" target="_blank"><img src="https://img.shields.io/badge/-Beecrowd-%23333?style=for-the-badge&logoColor=white" target="_blank"></a>
-</div>
+#### Frameworks & Tools
+- **Frontend:** ReactJS, Vue, AngularJS  
+- **Backend:** Spring Boot  
+- **Databases:** MySQL, PostgreSQL, Oracle, MariaDB, MongoDB
+
+---
+
+### 🎮 Geek & Personal Interests
+- Programming, neuroscience, gaming, music, and geek culture  
+
+---
+
+### 📫 Connect with me
+<a href="mailto:jessicaperdomo101@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/jessica-perdomo-0317b5166/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/jessicaperdomo"><img src="https://img.shields.io/badge/-GitHub-%23000000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.beecrowd.com.br/judge/pt/profile/574417?origem=1"><img src="https://img.shields.io/badge/-Beecrowd-%23333?style=for-the-badge&logoColor=white"></a>
