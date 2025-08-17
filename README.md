@@ -26,6 +26,12 @@ The goal is to change the world 🌎
 
 ---
 
+### 🎓 Interdisciplinary Background
+- Psychology (brief course / self-study) – exploring human behavior and cognition
+- Neuroscience applications in computational models
+
+---
+
 ### 🎮 Geek & Personal Interests
 - Programming, neuroscience, gaming, music, and geek culture  
 
