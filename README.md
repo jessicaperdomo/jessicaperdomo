@@ -24,7 +24,7 @@ The goal is to change the world 🌎
 - **Frontend:** ReactJS, Next.js, VueJS, AngularJS, TailwindCSS, React Native
 - **Backend:** Spring Boot, Boost, ASP.NET Core, Node.js
 - **Databases:** MySQL, PostgreSQL, Oracle, MariaDB, MongoDB, SQLserver
-- **Plus:** OracleCloud, AWS, Azure, Docker, Kubernetes, Terraform, SonarQube, IBM MQ, Dynatrace, GitHub Actions
+- **Plus:** OracleCloud, AWS, Azure, Docker, Kubernetes, Terraform, SonarQube, IBM MQ, Dynatrace, GitHub Actions, Unity/Vuforia RA/RV
 
 ---
 
