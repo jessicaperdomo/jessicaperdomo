@@ -5,7 +5,7 @@ The goal is to change the world 🌎
 
 - 💻 **Systems Analyst at CIANDT**
 - 🏆 **2023/2024 SBC Marathon Competitor (ICPC)** – Focused on competitive programming and problem-solving.  
-- 🎓 **Bachelor in Information Systems (UNOESTE, 8th term)** | **Software Development Graduate (Cubos Academy)**  
+- 🎓 **Graduated in Information Systems (UNOESTE)** | **Software Development Graduate (Cubos Academy)**  
 
 ---
 
