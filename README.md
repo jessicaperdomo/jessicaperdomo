@@ -6,7 +6,7 @@ The goal is to change the world 🌎
 - 💻 **Systems Analyst at CIANDT**
 - 🏆 **2023/2024 SBC Marathon Competitor (ICPC)** – Focused on competitive programming and problem-solving.  
 - 🎓 **Graduated in Information Systems (UNOESTE)** | **Software Development Graduate (Cubos Academy)**
-- 🎓 **Post Graduate Degree in Computer Forensics**
+- 🎓 **Post Graduate Degree in Computer Forensics** | **Specialization in Data Science (IFSP)**
 
 ---
 
@@ -44,4 +44,3 @@ The goal is to change the world 🌎
 <a href="mailto:oujessy.p@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/jessica-perdomo-0317b5166/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://github.com/jessicaperdomo"><img src="https://img.shields.io/badge/-GitHub-%23000000?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://www.beecrowd.com.br/judge/pt/profile/574417?origem=1"><img src="https://img.shields.io/badge/-Beecrowd-%23333?style=for-the-badge&logoColor=white"></a>
